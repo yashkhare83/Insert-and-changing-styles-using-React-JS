@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.images {
+  width: 500px;
+  height: 500px;
+}
+
+.container {
+  display: flex;
+  width: 1000px;
+}
